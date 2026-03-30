@@ -1,3 +1,5 @@
+//I used chatgpt for refernce
+
 let flights = [
   { flightNo: "AI101", airline: "Air India", from: "Chennai", to: "Delhi", delay: 10, status: "Delayed" },
   { flightNo: "6E202", airline: "IndiGo", from: "Chennai", to: "Mumbai", delay: 0, status: "On Time" },
